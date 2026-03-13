@@ -1,0 +1,6 @@
+# One prompt per line. Lines starting with # are ignored.
+Implement a Python function safe_json_load(path: str) -> dict with robust error handling and concise docstring.
+Given a bug report about intermittent timeout failures in async HTTP calls, provide a focused 5-step debugging plan.
+Refactor this pseudo-code into clean Python: parse csv rows, filter invalid rows, aggregate totals by category, return sorted result.
+Write unit tests for a function that validates email addresses and explain edge cases covered.
+Propose a minimal architecture for a local coding agent with tool-calling, emphasizing safety and performance.
